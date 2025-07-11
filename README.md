@@ -9,9 +9,9 @@ Pokémon é uma das séries de jogos e animações mais famosas do mundo, criada
 ## 🎮 Jogadores 
 | Jogador | Atributos | Jogador |Atributos | 
 |:---:|:---:|:---:|:---:|
-| ![Pikachu](".docs/gif/pikachu.gif" "Pikachu") | Força: 35  Ataque: 55 Defesa: 40 Ataque Especial:50 |![Bulbasaur]("./docs/gif/bulbasaur.gif" "Bulbasaur")  |Força: 35 Ataque: 49 Defesa: 49 Ataque Especial:65|
-| ![Charizard]("./docs/gif/charizard.gif" "Charizard") |Força: 78 Ataque: 84 Defesa: 78 Ataque Especial:109|![Meowth]("./docs/gif/meowth.gif" "Meowth") | Força: 40 Ataque: 45 Defesa: 35 Ataque Especial:40|
-| ![Victreebel]("./docs/gif/victreebel.gif" "Victreebel") |Força: 80 Ataque: 105 Defesa: 65 Ataque Especial:100|![Wobbuffet]("./docs/gif/wobbuffet.gif" "Wobbuffet") |Força: 190 Ataque: 33 Defesa: 58 Ataque Especial: 33|
+| ![Pikachu](docs/gif/pikachu.gif Pikachu) | Força: 35  Ataque: 55 Defesa: 40 Ataque Especial:50 |![Bulbasaur](/docs/gif/bulbasaur.gif Bulbasaur)  |Força: 35 Ataque: 49 Defesa: 49 Ataque Especial:65|
+| ![Charizard](/docs/gif/charizard.gif Charizard) |Força: 78 Ataque: 84 Defesa: 78 Ataque Especial:109|![Meowth](/docs/gif/meowth.gif Meowth) | Força: 40 Ataque: 45 Defesa: 35 Ataque Especial:40|
+| ![Victreebel](/docs/gif/victreebel.gif Victreebel) |Força: 80 Ataque: 105 Defesa: 65 Ataque Especial:100|![Wobbuffet](/docs/gif/wobbuffet.gif Wobbuffet) |Força: 190 Ataque: 33 Defesa: 58 Ataque Especial: 33|
 
 ***
 ---
